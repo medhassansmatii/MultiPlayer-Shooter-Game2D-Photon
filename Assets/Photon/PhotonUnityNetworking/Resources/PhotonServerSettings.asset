@@ -39,6 +39,11 @@ MonoBehaviour:
   - DestroySpaceship
   - Fire
   - RespawnSpaceship
+  - OnDirectionChange_LEFT
+  - OnDirectionChange_RIGHT
+  - changeDirection
+  - OnDestroy
+  - Destroy
   DisableAutoOpenWizard: 1
   ShowSettings: 1
   DevRegionSetOnce: 1
